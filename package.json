@@ -1,0 +1,22 @@
+{
+  "name": "test-sem-release",
+  "version": "1.0.0",
+  "description": "Testing semantic release for node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minijus/test-sem-release.git"
+  },
+  "author": "minijus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minijus/test-sem-release/issues"
+  },
+  "homepage": "https://github.com/minijus/test-sem-release#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
