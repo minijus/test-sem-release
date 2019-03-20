@@ -1,5 +1,5 @@
 const { version } = require("./index");
 
-test("version is 1.0.0", () => {
-  expect(version).toBe("1.0.0");
+test("version is 0.0.0-development", () => {
+  expect(version).toBe("0.0.0-development");
 });
